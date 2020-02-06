@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNotes", "MyList\MyNotes.csproj", "{5E9D0D25-3BBF-4BCE-9AEB-0B1A5D52641F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{950BB9D0-4866-42FD-A1F3-78EC9D7A35D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7DB0EA64-0EAB-4CD3-B4CF-EBFEDCBEEF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9D0D25-3BBF-4BCE-9AEB-0B1A5D52641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9D0D25-3BBF-4BCE-9AEB-0B1A5D52641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9D0D25-3BBF-4BCE-9AEB-0B1A5D52641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9D0D25-3BBF-4BCE-9AEB-0B1A5D52641F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950BB9D0-4866-42FD-A1F3-78EC9D7A35D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950BB9D0-4866-42FD-A1F3-78EC9D7A35D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950BB9D0-4866-42FD-A1F3-78EC9D7A35D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950BB9D0-4866-42FD-A1F3-78EC9D7A35D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB0EA64-0EAB-4CD3-B4CF-EBFEDCBEEF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB0EA64-0EAB-4CD3-B4CF-EBFEDCBEEF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB0EA64-0EAB-4CD3-B4CF-EBFEDCBEEF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB0EA64-0EAB-4CD3-B4CF-EBFEDCBEEF91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A177EB89-1BAA-4C23-8207-A80BDA31AB7D}
+	EndGlobalSection
+EndGlobal
