@@ -142,13 +142,16 @@ namespace MyList
                 MessageBox.Show("Note added!", "Create note", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
 
+            // Refreshing the datagridview.
+            if (Application.OpenForms["FormSeeNotes"] != null)
+            {
+                (Application.OpenForms["FormSeeNotes"] as FormSeeNotes).updateNotes();
+            }
+
             // Reset every possible thing to avoid bugs.
             resetText();
 
             ModifyNotes.modifyNote = false;
-            ModifyNotes.resetNotes();
-            ModifyNotes.resetNotes();
-            ModifyNotes.resetNotes();
             ModifyNotes.resetNotes();
 
             // Hiding the form.
