@@ -1,6 +1,6 @@
 # MyNotes
 
-***Developed in C#***
+***Developed in C# + WinForms***
 
 This is a simple software for your notes.
 
