@@ -6,7 +6,7 @@ This is a simple software for your notes.
 
 ---------------------------
 
-![1](https://user-images.githubusercontent.com/54969894/100527388-de638000-31b0-11eb-8d0a-523621b5c0fb.png
+![1](https://user-images.githubusercontent.com/54969894/100527388-de638000-31b0-11eb-8d0a-523621b5c0fb.png)
 
 ![2](https://user-images.githubusercontent.com/54969894/100527405-ffc46c00-31b0-11eb-81f4-bf037ff57f98.png)
 
