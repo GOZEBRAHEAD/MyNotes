@@ -1,23 +1,21 @@
 # MyNotes
 
-***Developed in C# + WinForms***
+***Developed in C# + WinForms + SQL Server + Bunifu***
 
 This is a simple software for your notes.
 
 ---------------------------
 
-![MyNotes-LoginRegister](https://i.gyazo.com/4123ff4967313d25685e45d70f5680c3.png)
+![1](https://user-images.githubusercontent.com/54969894/100527388-de638000-31b0-11eb-8d0a-523621b5c0fb.png
 
-![MyNotes-Main](https://i.gyazo.com/125bfbd85ade5b36ab16bfe6ba6848c4.png)
+![2](https://user-images.githubusercontent.com/54969894/100527405-ffc46c00-31b0-11eb-81f4-bf037ff57f98.png)
 
-![MyNotes-Dashboard](https://i.gyazo.com/83ae969ce0d3d43c566bfab745bc35b7.png)
+![3](https://user-images.githubusercontent.com/54969894/100527411-0d79f180-31b1-11eb-9a9a-693dac06dd0c.png)
 
-![MyNotes-CreateNote](https://i.gyazo.com/464f1bfa1764cd0004cf4b8037c4bc1d.png)
+![4](https://user-images.githubusercontent.com/54969894/100527413-123ea580-31b1-11eb-895a-f49e8d93c244.png)
 
-![MyNotes-AllMyNotes](https://i.gyazo.com/bae9f85180d630a26f3ed89b5c1b3824.png)
+![5](https://user-images.githubusercontent.com/54969894/100527415-15d22c80-31b1-11eb-9b17-8434e1136925.png)
 
----------------------------
+![6](https://user-images.githubusercontent.com/54969894/100527418-19fe4a00-31b1-11eb-951d-0b854967aac5.png)
 
-Things to make it work correctly:
-- SQL Server (There's a script in the main folder with the tables and stored procedures).
-- Bunifu (There's a .DLL in the main folder).
+![7](https://user-images.githubusercontent.com/54969894/100527420-1d91d100-31b1-11eb-959b-81e20352fdbb.png)
