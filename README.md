@@ -1,6 +1,6 @@
 # MyNotes
 
-***Developed in C# (WinForms) + SQL Server + Bunifu***
+***Developed in C# (WinForms) + SQL Server + Bunifu UI Framework***
 
 This is a simple software for your notes.
 
